@@ -109,6 +109,6 @@ Hop Miles is a **walking and running tracker** web app with a cute design. Track
 
 <div align="center">
 
-*Hop Miles v1.0*
+*Hop Miles Beta*
 
 </div>
