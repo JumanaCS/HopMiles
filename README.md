@@ -60,6 +60,21 @@ Hop Miles is a **walking and running tracker** web app with a cute design. Track
 ## Mobile Views
 
 <div>
+<img width="180" src="ReadMeImages/SideBarP">
+<img width="180" src="ReadMeImages/FriendsP">
+<img width="180" src="ReadMeImages/FriendsM.png">
+</div>
+<div>
+<img width="180" src="ReadMeImages/LeaderboardM.png">
+<img width="180" src="ReadMeImages/BunnyM.png">
+<img width="180" src="ReadMeImages/DestinationM.png">
+</div>
+
+---
+
+## PWA Mobile View
+
+<div>
 <img width="180" src="ReadMeImages/SideBarM.png">
 <img width="180" src="ReadMeImages/HomeM.png">
 <img width="180" src="ReadMeImages/FriendsM.png">
