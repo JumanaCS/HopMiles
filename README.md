@@ -83,13 +83,13 @@ Hop Miles is a **walking and running tracker** web app with a cute design. Track
 
 | Version | Date | Highlights |
 |---------|------|------------|
-| **BETA** | Dec 2025 | Initial public release |
-| | | Flashcards with images & quiz mode |
-| | | To-do lists with due dates |
-| | | Focus timer with doodle breaks |
-| | | Statistics dashboard |
+| **BETA** | Apr 2026 | Initial public release |
 | | | User authentication |
-| | | Cloud sync with Supabase |
+| | | Walk/Run Logging |
+| | | Bunny Customization |
+| | | Friends & Stats |
+| | | Leaderboard |
+| | | Virtual Destinations |
 ---
 
 <div align="center">
